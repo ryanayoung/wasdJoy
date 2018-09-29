@@ -1,6 +1,7 @@
 /*****************************************************************************
 HID WASD Joystick
 by: Ryan Young
+https://github.com/ryanayoung/wasdJoy
 Date: 9/21/2018
 Based on HID Joystick Mouse Example by Jim Lindblom
 license: MIT License - Feel free to use this code for any purpose.
